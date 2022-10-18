@@ -31,4 +31,4 @@ client.on("messageCreate", async (msg) => {
       msg.channel.send({ content: userText, embeds: [midData(pokeID)] });  
   }
  });
-client.login('NTI3OTgxNTM0ODUxMTA0Nzc4.G94jTy.SHvWgsLoevtMleOycVuNhIaBYnO65_Nq8kQjjg')
+client.login('token')
